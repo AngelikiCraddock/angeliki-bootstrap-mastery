@@ -61,12 +61,16 @@ $body-bg: white;
   font-weight: bold;
  }
 
+ h5.byline {
+  font-weight: bold;
+  font-size: large;
+  text-align: left;
+}
+
  p.byline {
   font-style: italic;
-  }
-
- h5.byline {
-    font-weight: bold;
+  font-size: medium;
+  text-align: left;
   }
 
  .carousel-item {
